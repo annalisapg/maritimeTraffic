@@ -1,5 +1,18 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+#
+#    Copyright (C) 2015, Annalisa Minelli
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details <http://www.gnu.org/licenses/>.
+#
 #importo sotto forma di csv (codifica utf-8 separatore=";") ed esporto in xcel
 #importo il file originale dei semaforisti e lo spezzetto in una lista di liste
 from collections import OrderedDict
