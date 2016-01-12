@@ -13,7 +13,6 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #    GNU General Public License for more details <http://www.gnu.org/licenses/>.
 #
-
 import sys,subprocess,re,xlwt,datetime
 from collections import OrderedDict
 from PyQt4.QtCore import *
